@@ -1,0 +1,11 @@
+<svg viewBox="0 0 800 260" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none" role="img" aria-label="Fundo de ilha tropical">
+  <rect width="800" height="260" fill="#0B4F4A"/>
+  <circle cx="680" cy="60" r="46" fill="#FFC94A" opacity="0.9"/>
+  <path d="M0 190 C 100 150 180 210 280 180 C 380 150 460 200 560 170 C 660 145 720 190 800 165 L800 260 L0 260 Z" fill="#0E6560"/>
+  <path d="M0 220 C 120 195 220 235 340 210 C 460 190 560 230 680 205 C 730 195 770 210 800 200 L800 260 L0 260 Z" fill="#0A3F3B"/>
+  <g fill="#0A3F3B">
+    <path d="M60 220 q6 -46 -18 -70 q26 6 30 30 q10 -30 -6 -52 q28 10 26 46 q16 -22 4 -46 q22 16 12 44 l-8 48 Z"/>
+    <path d="M420 226 q6 -40 -16 -62 q22 6 26 26 q10 -26 -4 -46 q24 8 22 40 q14 -18 4 -40 q20 14 10 38 l-6 44 Z"/>
+    <path d="M730 224 q6 -42 -17 -64 q24 6 27 28 q10 -28 -5 -48 q26 8 24 42 q15 -20 4 -42 q21 15 11 40 l-7 44 Z"/>
+  </g>
+</svg>

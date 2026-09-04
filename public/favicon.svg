@@ -1,0 +1,11 @@
+<svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Logo Dashi">
+  <circle cx="32" cy="32" r="30" fill="#0B4F4A"/>
+  <path d="M32 10 C 44 10 52 20 52 32 C 52 44 44 54 32 54 C 20 54 12 44 12 32 C 12 20 20 10 32 10 Z" fill="none" stroke="#FFC94A" stroke-width="2" opacity="0.35"/>
+  <ellipse cx="32" cy="36" rx="16" ry="15" fill="#F2762E"/>
+  <ellipse cx="32" cy="40" rx="9" ry="10" fill="#FCE3C1"/>
+  <path d="M24 22 C 26 14 30 10 32 9 C 34 10 38 14 40 22 C 35 18 29 18 24 22 Z" fill="#FFC94A"/>
+  <circle cx="27" cy="33" r="3.4" fill="#FFFFFF"/>
+  <circle cx="37" cy="33" r="3.4" fill="#FFFFFF"/>
+  <circle cx="28" cy="34" r="1.7" fill="#2B2118"/>
+  <circle cx="38" cy="34" r="1.7" fill="#2B2118"/>
+</svg>

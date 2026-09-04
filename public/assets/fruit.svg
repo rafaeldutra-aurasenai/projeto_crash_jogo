@@ -1,0 +1,8 @@
+<svg viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Fruta-cristal">
+  <path d="M20 6 L30 15 L26 34 L14 34 L10 15 Z" fill="#FFC94A"/>
+  <path d="M20 6 L30 15 L20 20 Z" fill="#FFE29A"/>
+  <path d="M20 6 L10 15 L20 20 Z" fill="#F2A93B"/>
+  <path d="M10 15 L14 34 L20 20 Z" fill="#E38A1F"/>
+  <path d="M30 15 L26 34 L20 20 Z" fill="#F2A93B"/>
+  <path d="M17 2 C 18 5 19 6 22 6 C 19 7 18 9 18 12 C 17 9 15 7 12 6 C 15 6 16 5 17 2 Z" fill="#7ED957"/>
+</svg>
