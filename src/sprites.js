@@ -1,7 +1,7 @@
 // Carrega as artes SVG originais do jogo como Image() prontas para o canvas.
 
 const paths = {
-  hero: '/assets/crash2.gif',
+  hero: '/assets/hero-sheet.png',
   fruit: '/assets/fruit.svg',
   crate: '/assets/crate.svg',
   boulder: '/assets/boulder.svg',

@@ -1,0 +1,18 @@
+{
+  "name": "dashi-ilha-fruta",
+  "version": "1.0.0",
+  "description": "Dashi na Ilha da Fruta - jogo de corrida/plataforma inspirado nos clássicos de bandicoot dos anos 90, feito com HTML5 Canvas, JavaScript e Bootstrap 5.",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.3"
+  },
+  "devDependencies": {
+    "vite": "^5.4.11"
+  }
+}
